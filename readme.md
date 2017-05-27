@@ -1,0 +1,3 @@
+- crtl + B  once--> TS Build Task with watch
+- F5 to launch Server
+- game runs at http://localhost:5858/
